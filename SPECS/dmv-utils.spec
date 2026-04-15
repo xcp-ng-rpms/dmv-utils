@@ -7,7 +7,7 @@
 
 Name: dmv-utils
 Version: 1.0.3
-Release: %{?xsrel}%{?dist}
+Release: %{?xsrel}~ydi.1%{?dist}
 Summary: DMV utilities
 License: GPL
 Source0: driver-tool
